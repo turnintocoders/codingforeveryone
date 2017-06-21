@@ -6,7 +6,7 @@ Free peer led coding sessions for everyone.
 
 We'll be working together on [FreeCodeCamp](https://www.freecodecamp.com/) and [CodeWars](http://codewars.com/) depending on your skills.
 
-The events are manged via [this Meetup](https://www.meetup.com/turn-into-coders/)
+The events are managed via [this Meetup](https://www.meetup.com/turn-into-coders/)
 
 ## Meeting structure
 
