@@ -20,6 +20,12 @@ FreeCodeCamp provides numerous video challenges in which they explain programmin
 - [The DOM](https://www.freecodecamp.org/videos/the-dom-whats-the-document-object-model)
 - [JavaScript lingo](https://www.freecodecamp.org/videos/javascript-lingo-mdn-and-documentation)
 - [Chrome Developer Tools](https://www.freecodecamp.org/videos/chrome-dev-tools-elements)
+
+#### 2.1.2 Build your first web page
+
+We recommend you to practise as soon as possible your new HTML & CSS skills building your first web page. That will help better understanding and retaining of the new concepts just learnt. You can go ahead on FreeCodeCamp with the [Front end development projects](https://www.freecodecamp.org/challenges/get-set-for-our-front-end-development-projects).
+
+You can start a project during one evening so that you can get help overcoming the first obstacles and then work on your own to finish them.
   
 ### 2.2 I know HTML&CSS, or I simply want to learn JavaScript
 Depending on your JavaScript level you can do different things.
