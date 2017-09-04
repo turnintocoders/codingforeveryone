@@ -26,7 +26,15 @@ FreeCodeCamp provides numerous video challenges in which they explain programmin
 We recommend you to practise as soon as possible your new HTML & CSS skills building your first web page. That will help better understanding and retaining of the new concepts just learnt. You can go ahead on FreeCodeCamp with the [Front end development projects](https://www.freecodecamp.org/challenges/get-set-for-our-front-end-development-projects).
 
 You can start a project during one evening so that you can get help overcoming the first obstacles and then work on your own to finish them.
-  
+
+#### 2.1.3 Create your website on Github pages
+
+When you have built a couple of webpages you can work on your personal website and host it on [Github pages](https://pages.github.com/).
+
+If you need some guidance on how Git and Github work you can have a look at this FreeCodeCamp lesson [Save your Code Revisions Forever with Git](https://www.freecodecamp.org/challenges/save-your-code-revisions-forever-with-git).
+
+If you need an introduction from scratch on Git, you can try this CodeCademy course first: [Learn Git](https://www.codecademy.com/learn/learn-git).
+
 ### 2.2 I know HTML&CSS, or I simply want to learn JavaScript
 Depending on your JavaScript level you can do different things.
 
