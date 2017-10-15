@@ -9,7 +9,7 @@ Depending on your interest and your programming level you can decide what to do 
 Keep in mind that the Meetup is the good place and moment in which you can ask questions, show your projects, work together with someone else, don't miss the opportunity!
 
 ### 2.1 No previous experience of HTML, CSS, JavaScript
-- Register on [FreeCodecamp](https://www.freecodecamp.com/) (using Github)
+- Register on [FreeCodecamp](https://www.freecodecamp.com/) (sign up via email then link the account with Github)
   - Start from [HTML&CSS](https://www.freecodecamp.org/challenges/say-hello-to-html-elements)
   - Once that is done you can have a look at some [responsive design with Bootstrap](https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers)
   - And finish off with [jQuery](https://www.freecodecamp.org/challenges/learn-how-script-tags-and-document-ready-work)
