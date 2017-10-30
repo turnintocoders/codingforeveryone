@@ -39,7 +39,7 @@ If you need an introduction from scratch on Git, you can try this CodeCademy cou
 Depending on your JavaScript level you can do different things.
 
 To assess your level:
-- Register on [FreeCodecamp](https://www.freecodecamp.com/) (using Github)
+- Register on [FreeCodecamp](https://www.freecodecamp.com/) (sign up via email then link the account with Github)
   - You can start from scratch with the [Basic JavaScript course](https://www.freecodecamp.org/challenges/comment-your-javascript-code) and [Object Oriented and Functional Programming](https://www.freecodecamp.org/challenges/declare-javascript-objects-as-variables)
   - If the previous point was boring or too easy, you can check how you do with [Basic algorithm challenges](https://www.freecodecamp.org/challenges/reverse-a-string)
 
