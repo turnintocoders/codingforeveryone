@@ -1,7 +1,7 @@
 # Coding for everyone - Meetup support
 
-## 1. Register on Github
-No matter what you are going to do, we recommend you to register on [Github](https://github.com/), and use that account to log into the other websites.
+## 1. [Optional] Register on Github
+No matter what you are going to do, we recommend you to register on [Github](https://github.com/), and link that account to the other websites.
 
 ## 2. What do you want to do?
 Depending on your interest and your programming level you can decide what to do at the Meetup.
@@ -13,7 +13,7 @@ Keep in mind that the Meetup is the good place and moment in which you can ask q
   - Start from [HTML&CSS](https://www.freecodecamp.org/challenges/say-hello-to-html-elements)
   - Once that is done you can have a look at some [responsive design with Bootstrap](https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers)
   - And finish off with [jQuery](https://www.freecodecamp.org/challenges/learn-how-script-tags-and-document-ready-work)
-  
+
 #### 2.1.1 I'm still missing many basic concepts or words that are apparently obvious to everyone
 FreeCodeCamp provides numerous video challenges in which they explain programming-related concepts, starting from scratch. For example you can see:
 - [Computer basics](https://www.freecodecamp.org/videos/computer-basics-the-4-basic-parts-of-a-computer)
